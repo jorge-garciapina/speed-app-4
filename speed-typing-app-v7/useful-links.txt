@@ -1,0 +1,24 @@
+Using IndexedDB
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB#about_this_document
+
+IDBVersionChangeEvent
+https://developer.mozilla.org/en-US/docs/Web/API/IDBVersionChangeEvent
+
+IDBTransaction
+https://developer.mozilla.org/en-US/docs/Web/API/IDBTransaction
+
+IDBOpenDBRequest
+https://developer.mozilla.org/en-US/docs/Web/API/IDBOpenDBRequest
+
+
+IDBRequest
+https://developer.mozilla.org/en-US/docs/Web/API/IDBRequest
+
+DBFactory: deleteDatabase() method
+https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory/deleteDatabase
+
+IDBDatabase
+https://developer.mozilla.org/en-US/docs/Web/API/IDBDatabase
+
+IDBObjectStore
+https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore

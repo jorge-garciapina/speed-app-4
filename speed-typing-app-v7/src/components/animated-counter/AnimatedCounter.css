@@ -1,0 +1,41 @@
+.counter {
+  display: flex;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.digit {
+  display: inline-block;
+}
+
+.animate {
+  animation: flip 0.5s ease-in-out;
+}
+
+.slide {
+  animation: slide 0.5s ease-in-out;
+}
+
+@keyframes flip {
+  0% {
+    transform: rotateX(0);
+  }
+  50% {
+    transform: rotateX(90deg);
+  }
+  100% {
+    transform: rotateX(0);
+  }
+}
+
+@keyframes slide {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
